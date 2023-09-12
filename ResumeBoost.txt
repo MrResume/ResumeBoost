@@ -1,5 +1,4 @@
 ===
-Author: Jeromy Fu
 Name: "ResumeBoost"
 Version: 0.1
 ===
