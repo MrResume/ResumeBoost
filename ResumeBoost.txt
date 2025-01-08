@@ -1,6 +1,7 @@
 ===
 Name: "ResumeBoost"
 Version: 0.1
+Author: Jeromy Fu
 ===
 
 [User Configuration]
